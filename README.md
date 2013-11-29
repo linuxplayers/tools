@@ -1,4 +1,4 @@
 tools
 =====
 
-vim.rc
+vimrc
